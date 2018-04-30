@@ -1,0 +1,7535 @@
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 0
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 0.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 0
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 1
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 0.0 , 0	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [0.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 1
+commit pointer : 0
+ROB ENTRY 0 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 2
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [3.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 3
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [3.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [3.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 4
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [3.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [3.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 5
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [3.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [3.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 6
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [3.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [3.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 2
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 7
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 3.0 , 2	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [3.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [0, 0]
+ val    : [3.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 3
+commit pointer : 2
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 8
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [3.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [6.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 9
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [6.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [6.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 10
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [6.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [6.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 11
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [6.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [6.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 12
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [6.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [6.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 4
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 13
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 6.0 , 4	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [6.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [2, 0]
+ val    : [6.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 5
+commit pointer : 4
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 14
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [6.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [4, 0]
+ val    : [9.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 6
+commit pointer : 5
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 15
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [9.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [4, 0]
+ val    : [9.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 6
+commit pointer : 5
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 16
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [9.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [4, 0]
+ val    : [9.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 6
+commit pointer : 5
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 17
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [9.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [4, 0]
+ val    : [9.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 6
+commit pointer : 5
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 18
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [9.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [4, 0]
+ val    : [9.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 6
+commit pointer : 6
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 19
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 9.0 , 6	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [9.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [4, 0]
+ val    : [9.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 7
+commit pointer : 6
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 20
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [9.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [6, 0]
+ val    : [12.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 7
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 21
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [12.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [6, 0]
+ val    : [12.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 7
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 22
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [12.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [6, 0]
+ val    : [12.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 7
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 23
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [12.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [6, 0]
+ val    : [12.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 7
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 24
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [12.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [6, 0]
+ val    : [12.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 0
+commit pointer : 0
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 25
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 12.0 , 0	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [12.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [6, 0]
+ val    : [12.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 1
+commit pointer : 0
+ROB ENTRY 0 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 26
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [12.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [15.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 27
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [15.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [15.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 28
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [15.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [15.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 29
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [15.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [15.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 1
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 0
+Current Cycle   : 30
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [15.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [0, 0]
+ val    : [15.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 2
+commit pointer : 2
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 1
+Current Cycle   : 31
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 15.0 , 2	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : 0
+parameters         : [15.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 1
+ instID : 0
+ tag    : [0, 0]
+ val    : [15.0, 3.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 3
+commit pointer : 2
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : BUSY
+instruction id     : 0
+instruction opcode : 1
+instruction dest   : 2
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 32
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 18.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 1
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [15.0, 3.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [18.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 33
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 18.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 2
+parameters         : [18.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [18.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 34
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 18.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 1
+parameters         : [18.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [18.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 35
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 18.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : NOT FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : 0
+parameters         : [18.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [18.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 3
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : BUSY
+instruction id     : 1
+instruction opcode : 4
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+instruction label : l1
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+
+----------------------------------<MACHINE STATE>----------------------------------
+IQ state
+-----------
+program counter : 2
+Current Cycle   : 36
+________________________________________
+Peripherals state
+-----------------
+F0 : 0.0 , -1	|	F1 : 0.0 , -1	|	F2 : 18.0 , -1	|	F3 : 0.0 , -1	|	
+F4 : 0.0 , -1	|	F5 : 0.0 , -1	|	F6 : 0.0 , -1	|	F7 : 0.0 , -1	|	
+F8 : 0.0 , -1	|	F9 : 0.0 , -1	|	F10 : 0.0 , -1	|	F11 : 0.0 , -1	|	
+F12 : 0.0 , -1	|	F13 : 0.0 , -1	|	F14 : 0.0 , -1	|	F15 : 0.0 , -1	|	
+________________________________________
+Processing Units State
+----------------------------
+Processing unit0
+-----------------
+ALU state0
+----------
+ALU state          : FREE
+instruction opcode : 4
+instruction ID     : 1
+CPU counter        : -1
+parameters         : [18.0, 18.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 4
+ instID : 1
+ tag    : [2, 0]
+ val    : [18.0, 18.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit1
+-----------------
+ALU state1
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+Processing unit2
+-----------------
+ALU state2
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+________________________________________
+ROB state
+----------
+issue pointer  : 4
+commit pointer : 4
+ROB ENTRY 0 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 1 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 2 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 3 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 4 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 5 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 6 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+ROB ENTRY 7 : 
+Entry State        : FREE
+instruction id     : -1
+instruction opcode : -1
+instruction dest   : -1
+instruction result : 0.0
+instruction state  : NOT DONE
+
+________________________________________
+

@@ -1,0 +1,266 @@
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : FREE
+instruction opcode : 0
+instruction ID     : 0
+CPU counter        : -1
+parameters         : [0.0, 0.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : NOT FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : NOT FREE
+instruction opcode : 10
+instruction ID     : 20
+CPU counter        : 2
+parameters         : [100.0, 15.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : NOT FREE
+instruction opcode : 10
+instruction ID     : 20
+CPU counter        : 1
+parameters         : [100.0, 15.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : NOT FREE
+instruction opcode : 10
+instruction ID     : 20
+CPU counter        : 0
+parameters         : [100.0, 15.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : FREE
+instruction opcode : 10
+instruction ID     : 20
+CPU counter        : -1
+parameters         : [100.0, 15.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
+-----------------------PROCESSING UNIT STATE----------------------
+ALU state
+----------
+ALU state          : FREE
+instruction opcode : 10
+instruction ID     : 20
+CPU counter        : -1
+parameters         : [100.0, 15.0]
+RESERVATION STATIONS STATE
+-----------------------
+RESERVATION STATION 0:
+-----------------------
+reservationStationView State : FREE
+ opcode : 10
+ instID : 20
+ tag    : [0, 0]
+ val    : [100.0, 15.0]
+ valid  : [true, true]
+
+RESERVATION STATION 1:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+RESERVATION STATION 2:
+-----------------------
+reservationStationView State : FREE
+ opcode : 0
+ instID : 0
+ tag    : [0, 0]
+ val    : [0.0, 0.0]
+ valid  : [true, true]
+
+---------------------------------------------
